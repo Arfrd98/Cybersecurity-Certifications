@@ -37,7 +37,7 @@ This repository serves as verification and documentation of my professional cert
 - **Issuer:** (ISC)²  
 - **Focus Areas:** Cybersecurity principles, network security, and risk management.  
 - **Verification:** [https://www.credly.com/badges/your-badge-id](#) *(if available)*  
-- **Certificate:** [View Certificate](link-to-your-png-or-pdf)  
+- **Certificate:** [View (ISC)² cc Certificate (PDF)](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/ISC2%20CC.pdf) 
 - **Date Issued:** (Month Year)
 
 ---
