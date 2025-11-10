@@ -10,7 +10,7 @@ This repository serves as verification and documentation of my professional cert
 ### 1. Google Cybersecurity Certificate
 - **Issuer:** Google / Coursera  
 - **Focus Areas:** Security foundations, risk management, SIEM, and incident handling.  
-- **Certificate:** [View Google Cybersecurity Certificate (PDF)](https://github.com/yourusername/cybersecurity-certifications/blob/main/Google_Cybersecurity.pdf)
+- **Certificate:** [View Google Cybersecurity Certificate (PDF)](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/Coursera%20Cyber%20Security.pdf)
 - **Date Issued:** (Month Year)  
 - **Verification:** [https://www.coursera.org/account/accomplishments/verify/your-id](#)
 
