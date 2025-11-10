@@ -37,7 +37,7 @@ This repository serves as verification and documentation of my professional cert
 ### 4. ISC2 Certified in Cybersecurity (CC)
 - **Issuer:** (ISC)²  
 - **Focus Areas:** Cybersecurity principles, network security, and risk management.   
-- **Certificate:** [View (ISC)² cc Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/certificates/ISC2%20CC.pdf)
+- **Certificate:** [View (ISC)² CC Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/certificates/ISC2%20CC.pdf)
 - **Verification:** [View on Credly](https://www.credly.com/badges/97122a06-056d-47ce-a1f8-a2c45af83892/linked_in_profile)
 - **Date Issued:** September 2025
 
