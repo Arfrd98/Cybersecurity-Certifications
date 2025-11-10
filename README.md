@@ -18,7 +18,8 @@ This repository serves as verification and documentation of my professional cert
 
 ### 2. Cisco Junior Cybersecurity Analyst Career Path
 - **Issuer:** Cisco Networking Academy  
-- **Focus Areas:** Threat detection, network defense, security monitoring, and incident response fundamentals.  
+- **Focus Areas:** Threat detection, network defense, security monitoring, and incident response fundamentals.
+- **Verification:** [https://www.credly.com/badges/your-badge-id](#) *(if available)*  
 - **Certificate:** [View Certificate](link-to-your-png-or-pdf)  
 - **Date Issued:** (Month Year)
 
