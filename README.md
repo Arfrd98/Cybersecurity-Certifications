@@ -11,7 +11,7 @@ This repository serves as verification and documentation of my professional cert
 - **Issuer:** Google / Coursera  
 - **Focus Areas:** Security foundations, risk management, SIEM, and incident handling.  
 - **Certificate:** [View Google Cybersecurity Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/Coursera%20Cyber%20Security.pdf)
-- **Verification:** [View on Credly](https://www.credly.com/badges/0f91a2c2-bff9-47dc-9980-51f32f7109da/public_url) 
+- **Verification:** [View Certificate on Coursera](https://www.coursera.org/account/accomplishments/professional-cert/GD30E34GRMHF) 
 - **Date Issued:** (Month Year)  
 
 ---
