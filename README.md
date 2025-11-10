@@ -11,16 +11,16 @@ This repository serves as verification and documentation of my professional cert
 - **Issuer:** Google / Coursera  
 - **Focus Areas:** Security foundations, risk management, SIEM, and incident handling.  
 - **Certificate:** [View Google Cybersecurity Certificate (PDF)](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/Coursera%20Cyber%20Security.pdf)
-- **Date Issued:** (Month Year)  
 - **Verification:** [https://www.coursera.org/account/accomplishments/verify/your-id](#)
+- **Date Issued:** (Month Year)  
 
 ---
 
 ### 2. Cisco Junior Cybersecurity Analyst Career Path
 - **Issuer:** Cisco Networking Academy  
 - **Focus Areas:** Threat detection, network defense, security monitoring, and incident response fundamentals.
+- **Certificate:** [View Google Cybersecurity Certificate (PDF)](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/Junior_Cybersecurity_Analyst_Career_Path_certificate.pdf)
 - **Verification:** [https://www.credly.com/badges/your-badge-id](#) *(if available)*  
-- **Certificate:** [View Certificate](link-to-your-png-or-pdf)  
 - **Date Issued:** (Month Year)
 
 ---
@@ -28,16 +28,16 @@ This repository serves as verification and documentation of my professional cert
 ### 3. Huawei Network Security
 - **Issuer:** Huawei Talent Online  
 - **Focus Areas:** Network security fundamentals, firewall configuration, and vulnerability management.  
-- **Certificate:** [View Certificate](link-to-your-png-or-pdf)  
+- **Certificate:** [<img src="https://github.com/yourusername/cybersecurity-certifications/blob/main/Cisco_Junior_Cybersecurity.png" width="400"/>](https://github.com/yourusername/cybersecurity-certifications/blob/main/Cisco_Junior_Cybersecurity.png)  
 - **Date Issued:** (Month Year)
 
 ---
 
 ### 4. ISC2 Certified in Cybersecurity (CC)
 - **Issuer:** (ISC)²  
-- **Focus Areas:** Cybersecurity principles, network security, and risk management.  
-- **Verification:** [https://www.credly.com/badges/your-badge-id](#) *(if available)*  
-- **Certificate:** [View (ISC)² cc Certificate (PDF)](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/ISC2%20CC.pdf) 
+- **Focus Areas:** Cybersecurity principles, network security, and risk management.   
+- **Certificate:** [View (ISC)² cc Certificate (PDF)](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/ISC2%20CC.pdf)
+- **Verification:** [https://www.credly.com/badges/your-badge-id](#) *(if available)* 
 - **Date Issued:** (Month Year)
 
 ---
