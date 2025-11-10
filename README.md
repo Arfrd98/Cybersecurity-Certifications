@@ -19,7 +19,7 @@ This repository serves as verification and documentation of my professional cert
 ### 2. Cisco Junior Cybersecurity Analyst Career Path
 - **Issuer:** Cisco Networking Academy  
 - **Focus Areas:** Threat detection, network defense, security monitoring, and incident response fundamentals.
-- **Certificate:** [View Google Cybersecurity Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/certificates/Junior_Cybersecurity_Analyst_Career_Path_certificate.pdf)
+- **Certificate:** [View Junior Cybersecurity Analyst Career Path Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/certificates/Junior_Cybersecurity_Analyst_Career_Path_certificate.pdf)
 - **Verification:** [View on Credly](https://www.credly.com/badges/049e648c-b5f1-48cb-b3b6-6cc657308c21/linked_in_profile) 
 - **Date Issued:** September 2025
 
