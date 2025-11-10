@@ -28,7 +28,7 @@ This repository serves as verification and documentation of my professional cert
 ### 3. Huawei Network Security
 - **Issuer:** Huawei Talent Online  
 - **Focus Areas:** Network security fundamentals, firewall configuration, and vulnerability management.  
-- **Certificate:** ![Huawei Network Security Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/Huawei%20Network%20Security.png)  
+- **Certificate:** [View Huawei Network Security Certificate (PDF)](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/Huawei%20Network%20Security.png)
 - **Date Issued:** (Month Year)
 
 ---
