@@ -11,7 +11,7 @@ This repository serves as verification and documentation of my professional cert
 - **Issuer:** Google / Coursera  
 - **Focus Areas:** Security foundations, risk management, SIEM, and incident handling.  
 - **Certificate:** [View Google Cybersecurity Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/Coursera%20Cyber%20Security.pdf)
-- **Verification:** [https://www.coursera.org/account/accomplishments/verify/your-id](#)
+- **Verification:** [View on Credly](https://www.credly.com/badges/0f91a2c2-bff9-47dc-9980-51f32f7109da/public_url) 
 - **Date Issued:** (Month Year)  
 
 ---
@@ -20,7 +20,7 @@ This repository serves as verification and documentation of my professional cert
 - **Issuer:** Cisco Networking Academy  
 - **Focus Areas:** Threat detection, network defense, security monitoring, and incident response fundamentals.
 - **Certificate:** [View Google Cybersecurity Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/Junior_Cybersecurity_Analyst_Career_Path_certificate.pdf)
-- **Verification:** [https://www.credly.com/badges/your-badge-id](#) *(if available)*  
+- **Verification:** [View on Credly](https://www.credly.com/badges/049e648c-b5f1-48cb-b3b6-6cc657308c21/linked_in_profile) 
 - **Date Issued:** (Month Year)
 
 ---
@@ -37,7 +37,7 @@ This repository serves as verification and documentation of my professional cert
 - **Issuer:** (ISC)²  
 - **Focus Areas:** Cybersecurity principles, network security, and risk management.   
 - **Certificate:** [View (ISC)² cc Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/ISC2%20CC.pdf)
-- **Verification:** [View on Credly](https://www.credly.com/earner/earned/badge/97122a06-056d-47ce-a1f8-a2c45af83892d)
+- **Verification:** [View on Credly](https://www.credly.com/badges/97122a06-056d-47ce-a1f8-a2c45af83892/linked_in_profile)
 
 - **Date Issued:** (Month Year)
 
