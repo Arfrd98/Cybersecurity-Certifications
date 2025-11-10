@@ -47,5 +47,4 @@ This repository serves as verification and documentation of my professional cert
 - [TryHackMe Profile](https://tryhackme.com/p/Soaz)
 - [Medium Profile](https://medium.com/@Arfrd)
 - [LinkedIn Profile](www.linkedin.com/in/arif-farid-095b9b23a)
-- [Credly Badges](https://www.credly.com/users/arif-farid.0f078e22)
 
