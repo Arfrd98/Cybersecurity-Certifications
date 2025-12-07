@@ -43,7 +43,7 @@ This repository serves as verification and documentation of my professional cert
 
 ---
 
-### 4. CompTIA Cybersecurity Analyst (CySA+)
+### 5. CompTIA Cybersecurity Analyst (CySA+)
 - **Issuer:** CompTIA 
 - **Focus Areas:** Threat & Vulnerability Management, Security Operations & Monitoring, Incident Response, and Threat Intelligence & Analysis.   
 - **Certificate:** [View CompTIA CySA+ Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/certificates/CompTIA%20CySA%2B%20certificate.pdf)
