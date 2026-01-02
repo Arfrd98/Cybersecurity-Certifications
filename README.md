@@ -52,6 +52,23 @@ This repository serves as verification and documentation of my professional cert
 
 ---
 
+### 6. LFC108: Cybersecurity Essentials 
+- **Issuer:** The Linux Foundation 
+- **Focus Areas:** Cybersecurity Foundation.   
+- **Certificate:** [View LFC108: Cybersecurity Essentials Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/certificates/TheLinuxFoundation%20LFC108.pdf)
+- **Verification:** [View on Credly](https://www.credly.com/badges/f2833c32-a7f7-4e33-8575-25ab2c831233/public_url)
+- **Date Issued:** December 2025
+
+---
+
+### 7. Advent of Cyber 2025 
+- **Issuer:** TryHackMe
+- **Focus Areas:** Blue Team & Defensive Security, Threat Analysis & Malware Basics, Operating System Security and OSINT & Digital Investigation
+- **Certificate:** [View LFC108: Cybersecurity Essentials Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/certificates/TheLinuxFoundation%20LFC108.pdf)
+- **Date Issued:** December 2025
+
+---
+
 ## 🌐 Profiles & Learning Platforms
 - [TryHackMe Profile](https://tryhackme.com/p/Soaz)
 - [Medium Profile](https://medium.com/@Arfrd)
