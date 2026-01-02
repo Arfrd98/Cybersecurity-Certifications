@@ -64,7 +64,7 @@ This repository serves as verification and documentation of my professional cert
 ### 7. Advent of Cyber 2025 
 - **Issuer:** TryHackMe
 - **Focus Areas:** Blue Team & Defensive Security, Threat Analysis & Malware Basics, Operating System Security and OSINT & Digital Investigation
-- **Certificate:** [View LFC108: Cybersecurity Essentials Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/certificates/TheLinuxFoundation%20LFC108.pdf)
+- **Certificate:** [View TryHackMe - Advent of Cyber 2025 Completion Certificate](https://github.com/Arfrd98/Cybersecurity-Certifications/blob/main/certificates/THM-Advent%20of%20Cyber%202025.pdf)
 - **Date Issued:** December 2025
 
 ---
