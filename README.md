@@ -1,4 +1,4 @@
-![Alt Text](assets/cyber-banner.png)
+![Alt Text](assets/banner.png)
 
 # 🛡️ Cybersecurity Certifications Portfolio
 
