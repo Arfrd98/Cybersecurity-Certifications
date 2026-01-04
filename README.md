@@ -1,9 +1,6 @@
+# 🛡️ Cybersecurity Certifications Portfolio 🛡️
+
 ![Alt Text](assets/Banner.jpg)
-
-# 🛡️ Cybersecurity Certifications Portfolio
-
-Welcome to my cybersecurity certification portfolio.  
-This repository serves as verification and documentation of my professional certifications and learning paths in the cybersecurity domain.
 
 ---
 
