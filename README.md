@@ -71,5 +71,5 @@
 ## 🌐 Profiles & Learning Platforms
 - [TryHackMe Profile](https://tryhackme.com/p/Soaz)
 - [Medium Profile](https://medium.com/@Arfrd)
-- [LinkedIn Profile](www.linkedin.com/in/arif-farid-095b9b23a)
+- [LinkedIn Profile](www.linkedin.com/in/arif-farid)
 
