@@ -1,3 +1,5 @@
+![Cybersecurity Banner](assets/cyber-banner.png)
+
 # 🛡️ Cybersecurity Certifications Portfolio
 
 Welcome to my cybersecurity certification portfolio.  
