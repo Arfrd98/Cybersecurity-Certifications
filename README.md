@@ -3,7 +3,8 @@
 ![Alt Text](assets/Banner.jpg)
 
 <hr>
-### 🎓 Certifications
+
+## 🎓 Certifications
 
 ---
 
