@@ -6,7 +6,6 @@
 
 ## 🎓 Certifications
 
----
 
 ### 1. Google Cybersecurity Certificate
 - **Issuer:** Google / Coursera  
