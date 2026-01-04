@@ -1,10 +1,12 @@
-<h1 align="center">🛡️ Cybersecurity Certifications Portfolio</h1>
+<h1 align="center">Cybersecurity Certifications Portfolio</h1>
+<hr>
 
 ![Alt Text](assets/Banner.jpg)
 
 ---
 
 ## 🎓 Certifications
+<p align=>━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 1. Google Cybersecurity Certificate
 - **Issuer:** Google / Coursera  
