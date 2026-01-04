@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Certifications Portfolio 🛡️
+<h1 align="center">🛡️ Cybersecurity Certifications Portfolio</h1>
 
 ![Alt Text](assets/Banner.jpg)
 
