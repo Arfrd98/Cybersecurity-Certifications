@@ -1,5 +1,5 @@
 <h1 align="center"> 🛡️ Cybersecurity Certifications Portfolio 🛡️ </h1>
-<hr>
+
 ![Alt Text](assets/Banner.jpg)
 
 ---
