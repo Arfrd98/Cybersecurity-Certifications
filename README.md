@@ -4,6 +4,7 @@
 
 <hr>
 ## 🎓 Certifications
+
 ---
 
 ### 1. Google Cybersecurity Certificate
