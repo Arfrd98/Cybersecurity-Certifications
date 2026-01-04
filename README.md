@@ -2,10 +2,9 @@
 
 ![Alt Text](assets/Banner.jpg)
 
+<hr>
 
 ## 🎓 Certifications
-
-<hr>
 
 ### 1. Google Cybersecurity Certificate
 - **Issuer:** Google / Coursera  
